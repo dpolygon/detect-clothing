@@ -1,0 +1,9 @@
+
+#dataset
+fashionMNIST_data
+
+#unrelated
+CS342_Homework_1.ipynb
+
+#virtual env
+.venv
